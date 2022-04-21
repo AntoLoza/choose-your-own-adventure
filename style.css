@@ -1,5 +1,20 @@
 /* Write your CSS Here. */
 @import url('https://fonts.googleapis.com/css2?family=Fira+Sans:ital@1&family=Roboto+Mono&family=Supermercado+One&display=swap');
+h3{
+color: rgb(179, 51, 51) 
+
+}
+p.ending{ 
+  color: rgb(255, 21, 0);
+  font-size: xx-large;
+}
+
+h2{
+  color: powderblue;
+}
+h1{
+  color: gold;
+}
 
 body {
 background-color: black;

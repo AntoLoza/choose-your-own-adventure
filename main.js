@@ -1,6 +1,6 @@
 console.log(pages[0]);
 
-let endingPages = [4, 9, 13, 17, 19, 20];
+let endingPages = [4, 9, 13, 17, 19, 20] 
 let currentPage = 0;
 
 // Your Code Here.
@@ -20,7 +20,7 @@ let currentPage = 0;
 //   currentPage = parseInt(currentPage);}
 
 let flavorText = "\n What page would you like to go to ? "
-let endingText = "<b> THE END or is it ....</b>"
+
 document.write(`<p>${pages[currentPage]} </P>`)
 
 function ending(currentPage) {
@@ -48,6 +48,4 @@ while (currentPage !== null) {
 
     }
 }
-
-document.write(endingText)
 

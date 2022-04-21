@@ -16,7 +16,7 @@ let pages = [
     `Page 3: The airlock's outer porthole is misted over, but you can see oranges and greens through the thick alumiglass. This planet has life, you think. This planet has life.
     \n
     Continue to page 2.`,
-    `Page 4: You yank the ships hatch open, but in your excitement you forgot to pressurize the airlock!  As door unlocks a huge rush of air rushes in the opening, throwing you against the wall and smashing your visor.  Your vision goes dark.`,
+    `<h3>Page 4: You yank the ships hatch open, but in your excitement you forgot to pressurize the airlock!  As door unlocks a huge rush of air rushes in the opening, throwing you against the wall and smashing your visor.  Your vision goes dark.</h3>`,
     `Page 5: You press the button to pressurize the airlock, feeling the high pressure of this world squeeze your suit tightly.   You key open the airlock with your polymer mesh suit gloves--and thank goodness Earth was able to invent thinner suits so you could 3D print them before landing. You don't want to miss anything this world will have to offer.  The airlock hatch opens.
     \n
     To look around, go to page 6.
@@ -38,7 +38,7 @@ let pages = [
     \n
     To answer, go to page 10.
     To continue looking around, go to page 11.`,
-    `Page 9: You unlock the clasp of your helmet and you start to run forward in excitement!  Suddenly the scorching hot air rushes into your face and you've realized your mistake.  You immediately start coughing as you breathe in the toxic air. You fall to the ground and take your last breath.`,
+    `<h3>Page 9: You unlock the clasp of your helmet and you start to run forward in excitement!  Suddenly the scorching hot air rushes into your face and you've realized your mistake.  You immediately start coughing as you breathe in the toxic air. You fall to the ground and take your last breath.</h3>`,
     `Page 10: You open your mouth to answer, your mind grasping for something routine for this routine question, because otherwise, you have no words. But something shining to your right catches your attention.
     \n
     Continue to page 11.`,
@@ -59,7 +59,7 @@ let pages = [
     \n
     To run over to the ship, go to page 13.
     To mark the ship's location on your HUD, go to page 14.`,
-    `Page 13: To start jogging towards the ship, but the rocky terrain makes it difficult.  You stumble over a rock and scratch a hole in the sleeve of your suit!  Your suit's warning system immediately starts blaring in your ears. "WARNING, Environment systems destabilized! Return to the ship immediately!  You curse as you head back to the ship, now they'll send Jeff instead of you for this momentus discovery...`,
+    `<h3>Page 13: To start jogging towards the ship, but the rocky terrain makes it difficult.  You stumble over a rock and scratch a hole in the sleeve of your suit!  Your suit's warning system immediately starts blaring in your ears. "WARNING, Environment systems destabilized! Return to the ship immediately!  You curse as you head back to the ship, now they'll send Jeff instead of you for this momentus discovery...<h3>`,
     `Page 14: You zoom out your HUD, but mark the ship's location in the distance. It wouldn't do to trip on a rock and rupture your suit before you get there. "We stirred up the dirt when we landed. The wind is doing the rest." But it hadn't been fully covered, had it? Just a surface layer. How many days or weeks did it take on this dusty plain for a surface layer to accumulate?
     \n
     How long had whoever had landed--or crashed--that ship been here?
@@ -86,11 +86,11 @@ let pages = [
     \n
     To go back outside, go to page 17.
     To begin your live-stream to Earth, go to page 20.`,
-    `Page 17: You get back into your suit and head back out of the spacecraft.  You walk towards one of the small metallic-looking plants to inspect it further.
+    `<h3>Page 17: You get back into your suit and head back out of the spacecraft.  You walk towards one of the small metallic-looking plants to inspect it further.
     \n
     As you get closer, you hear a clink from behind you.  You struggle to turn around in you clunky suit, but you only catch a glimpse of a long metallic talon as it pierces your chest.
     \n
-    As your vision fades you can see an metallic spider-like creature crawling over you.`,
+    As your vision fades you can see an metallic spider-like creature crawling over you.</h3>`,
     `Page 18: But you don't listen. You know it'll probably end your career, disobeying such an order. Or maybe, when this video gets to earth, you'll be the biggest social media sensation ever. None of that matters as you take one step at a time, drawing closer to the ship.
     \n
     Because you're the first human on an exoplanet.
@@ -98,7 +98,7 @@ let pages = [
     And you'll be the first human to touch an exocraft. To maybe look inside it.
     \n
     Continue to page 19.`,
-    `Page 19: You stepped out on this planet during sunlight for the money shot. For the people back on Earth. For the gorgeous, panoramic vista that Earth Forward can license as a VR experience and sell for millions. To say that you could.
+    `<h2>Page 19: You stepped out on this planet during sunlight for the money shot. For the people back on Earth. For the gorgeous, panoramic vista that Earth Forward can license as a VR experience and sell for millions. To say that you could.
     \n
     You stepped out on this planet during sunlight for the money shot. For the people back on Earth. For the gorgeous, panoramic vista that Earth Forward can license as a VR experience and sell for millions. To say that you could.
     \n
@@ -116,8 +116,8 @@ let pages = [
     \n
     You open the hatch, peering inside.  This is going to be the biggest discovery of our species!  
     \n
-    To be continued...`,
-    `Page 20: You flip on the comms system and begin your live-stream back to Earth.  "This is Aura-1 Reporting in.  Tonight I'm bring to you the wonders of Planet Beta!
+    To be continued...</h2>`,
+    `<h1><i>Page 20: You flip on the comms system and begin your live-stream back to Earth.  "This is Aura-1 Reporting in.  Tonight I'm bring to you the wonders of Planet Beta!
     \n
-    You become an instant world-wide celebrity as you show your discoveries.`,
+    You become an instant world-wide celebrity as you show your discoveries.</h1></i>`,
 ];
